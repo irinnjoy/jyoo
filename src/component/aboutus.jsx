@@ -1,7 +1,7 @@
 import react from "react";
 function About() {
     return (
-        <div style={{backgroundImage:"url(Img7.jpg)",
+        <div style={{backgroundImage:"url(Img6.jpg)",
             backgroundSize: "cover",
             height: "100vh",
             display: "flex",
